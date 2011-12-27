@@ -1,9 +1,9 @@
 Name:		sflowtool
 Summary:	sflowtool is a utility for collecting and processing sFlow data
-Version:	3.22
+Version:	3.23
 Release:	1
 License:	Other
-Source:		%{name}-%{version}.tar.gz
+Source0:		%{name}-%{version}.tar.gz
 Group:		System/Configuration/Networking
 URL:		http://www.inmon.com/technology/sflowTools.php
 
