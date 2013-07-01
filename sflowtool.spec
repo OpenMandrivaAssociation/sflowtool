@@ -1,5 +1,5 @@
 Name:		sflowtool
-Summary:	sflowtool is a utility for collecting and processing sFlow data
+Summary:	Utility for collecting and processing sFlow data
 Version:	3.26
 Release:	1
 License:	Other
