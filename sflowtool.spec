@@ -3,7 +3,7 @@ Summary:	Utility for collecting and processing sFlow data
 Version:	5.04
 Release:	1
 License:	Other
-Source0:	http://www.inmon.com/bin/%{name}-%{version}.tar.gz
+Source0:	https://github.com/sflow/sflowtool/archive/v%{version}/%{name}-%{version}.tar.gz
 Group:		System/Configuration/Networking
 URL:		http://www.inmon.com/technology/sflowTools.php
 
