@@ -29,4 +29,4 @@ integrating with other tools such as MRTG or rrdtool.
 
 %files
 %{_bindir}/%{name}
-%doc AUTHORS INSTALL NEWS ChangeLog README
+%doc AUTHORS NEWS ChangeLog README
