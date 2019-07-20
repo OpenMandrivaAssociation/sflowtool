@@ -1,7 +1,7 @@
 Name:		sflowtool
 Summary:	Utility for collecting and processing sFlow data
-Version:	3.26
-Release:	4
+Version:	5.04
+Release:	1
 License:	Other
 Source0:	http://www.inmon.com/bin/%{name}-%{version}.tar.gz
 Group:		System/Configuration/Networking
@@ -22,10 +22,10 @@ integrating with other tools such as MRTG or rrdtool.
 
 %build
 %configure2_5x
-%make
+%make_build
 
 %install
-%makeinstall_std
+%make_install
 
 %files
 %{_bindir}/%{name}
