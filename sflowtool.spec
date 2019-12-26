@@ -1,6 +1,6 @@
 Name:		sflowtool
 Summary:	Utility for collecting and processing sFlow data
-Version:	5.04
+Version:	5.05
 Release:	1
 License:	Other
 Source0:	https://github.com/sflow/sflowtool/archive/v%{version}/%{name}-%{version}.tar.gz
@@ -21,7 +21,7 @@ integrating with other tools such as MRTG or rrdtool.
 %setup -q
 
 %build
-%configure2_5x
+%configure
 %make_build
 
 %install
