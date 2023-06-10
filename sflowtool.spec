@@ -1,6 +1,6 @@
 Name:		sflowtool
 Summary:	Utility for collecting and processing sFlow data
-Version:	5.08
+Version:	6.01
 Release:	1
 License:	Other
 Source0:	https://github.com/sflow/sflowtool/archive/v%{version}/%{name}-%{version}.tar.gz
