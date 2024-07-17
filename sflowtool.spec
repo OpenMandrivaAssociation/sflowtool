@@ -1,11 +1,11 @@
 Name:		sflowtool
 Summary:	Utility for collecting and processing sFlow data
-Version:	6.04
+Version:	6.06
 Release:	1
 License:	Other
 Source0:	https://github.com/sflow/sflowtool/archive/v%{version}/%{name}-%{version}.tar.gz
 Group:		System/Configuration/Networking
-URL:		http://www.inmon.com/technology/sflowTools.php
+URL:		https://www.inmon.com/technology/sflowTools.php
 
 %description
 The sFlow toolkit provides command
