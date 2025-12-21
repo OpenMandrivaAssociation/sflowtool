@@ -7,6 +7,11 @@ Source0:	https://github.com/sflow/sflowtool/archive/v%{version}/%{name}-%{versio
 Group:		System/Configuration/Networking
 URL:		https://www.inmon.com/technology/sflowTools.php
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 The sFlow toolkit provides command
 line utilities and scripts for analyzing sFlow data.
